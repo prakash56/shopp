@@ -11,7 +11,7 @@ import men_banner from './Components/Assets/banner_mens.png';
 import women_banner from './Components/Assets/banner_women.png';
 import kid_banner from './Components/Assets/banner_kids.png';
 
-export const backend_url = 'http://localhost:4000';
+export const backend_url = 'https://shopper-api-uqo8.onrender.com';
 export const currency = '₹';
 
 function App() {
